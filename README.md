@@ -2,8 +2,6 @@
 <h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Aman Kanojiya </h1>
 
 ### A Pythoneer🐍 & Web Developer. Love to learn and explore 🚀 
-
-<table align="center"><tr><td align="center"> <a href="https://www.linkedin.com/in/aman-kanojiya-782263188/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Aman kanojiya💻's Linkedin Profile"  height="25" width="25"</a></td></tr></table>
  
 - 👨‍💻 First Year Student at IIT (ISM).
 
@@ -29,5 +27,20 @@
 </div>
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/AMANKANOJIYA/count.svg" alt="Visitor Count" /></h2>
+
+<h2 align="center">Connect Me !! 🤝</h2> 
+
+<p align="center">
+<a href="https://github.com/AMANKANOJIYA" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kanojiya-782263188/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aman.kanojiya4203@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p> 
+
 <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
 
