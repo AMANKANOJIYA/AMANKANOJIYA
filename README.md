@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**AMANKANOJIYA/AMANKANOJIYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Aman Kanojiya </h1>
 
-Here are some ideas to get you started:
+### A Pythoneer🐍 & Web Developer. Love to learn and explore 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center"><tr><td align="center"> <a href="https://www.linkedin.com/in/aman-kanojiya-782263188/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Aman kanojiya💻's Linkedin Profile"  height="25" width="25"</a></td></tr></table>
+ 
+- 👨‍💻 First Year Student at IIT (ISM).
+
+- 🔭 I’m currently working on Web Development Skills.
+ 
+- 👯 I’m looking to collaborate on all types of Projects
+
+- 💬Like to talk about Web development, Pyhton
+
+- 🌱 I’m currently learning Express, Passport, Django, DevOps
+
+- 🤔 I’m looking for help with Some Guidence to my journey to open source
+
+- 📫 How to reach me: *aman.kanojiya4203@gmail.com*
+
+
