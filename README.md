@@ -23,3 +23,11 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AMANKANOJIYA&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKANOJIYA&theme=radical&show_icons=true" />
+</div>
+
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/AMANKANOJIYA/count.svg" alt="Visitor Count" /></h2>
+<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
+
