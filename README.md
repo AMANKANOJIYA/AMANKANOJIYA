@@ -18,7 +18,7 @@
 - 📫 How to reach me: *aman.kanojiya4203@gmail.com*
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true&bg_color=8700FF&color=66FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true&color=66FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
