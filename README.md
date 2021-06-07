@@ -1,4 +1,4 @@
-<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"><br> This is <b>Aman Kanojiya</b< </h1>
+<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> !!!<br> This is Aman Kanojiya</h1>
 
 ### A Pythoneer🐍 & Web Developer. Love to learn and explore 🚀 
  
@@ -10,7 +10,7 @@
 
 - 💬 Would Like to talk about <b>Web development</b>, <b>Python</b>
 
-- 🌱 I’m currently learning <b>Express, Passport, Django, DevOps</b>
+- 🌱 I’m currently learning <b>Express, Passport, Django</b> and <b>DevOps</b>
 
 - 🤔 I’m looking for help with <b>Some Guidance</b> to my journey to <b>Open Source</b>
 
