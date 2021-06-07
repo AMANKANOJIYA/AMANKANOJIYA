@@ -23,7 +23,8 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AMANKANOJIYA&theme=radical&show_icons=true&text_color=8700FF&title_color=66FF00&hide_border=true&icon_color=FFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKANOJIYA&theme=radical&show_icons=true" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AMANKANOJIYA&theme=dracula&fire=1BDD89&border=000000&stroke=10DD24&ring=CF0DDD&dates=11DDD8&currStreakNum=0FDD1C&sideNums=34DD21&currStreakLabel=DD0BDB&sideLabels=DD0BDB"/>
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKANOJIYA&theme=radical&show_icons=true" /> -->
 </div>
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/AMANKANOJIYA/count.svg" alt="Visitor Count" /></h2>
