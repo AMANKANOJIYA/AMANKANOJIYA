@@ -22,8 +22,8 @@
 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AMANKANOJIYA&theme=radical&show_icons=true&title_color=8700FF&text_color=66FF00&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKANOJIYA&theme=radical&show_icons=true&title_color=8700FF&text_color=66FF00&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AMANKANOJIYA&theme=radical&show_icons=true&text_color=8700FF&title_color=66FF00&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKANOJIYA&theme=radical&show_icons=true&text_color=8700FF&title_color=66FF00&hide_border=true" />
 </div>
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/AMANKANOJIYA/count.svg" alt="Visitor Count" /></h2>
