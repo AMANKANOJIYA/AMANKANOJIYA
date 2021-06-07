@@ -1,19 +1,22 @@
 
-<h1 align='center' style="color:#66FF00"> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Aman Kanojiya </h1>
+<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> !!!<br> This is Aman Kanojiya</h1>
+
+
+
 
 ### A Pythoneer🐍 & Web Developer. Love to learn and explore 🚀 
  
-- 👨‍💻 First Year Student at IIT (ISM).
+- 👨‍💻 First Year Student at <b>IIT (ISM)</b>.
 
-- 🔭 I’m currently working on Web Development Skills.
+- 🔭 I’m currently working on <b>Web Development Skills</b>.
  
 - 👯 I’m looking to collaborate on all types of Projects
 
-- 💬Like to talk about Web development, Pyhton
+- 💬 Would Like to talk about <b>Web development</b>, <b>Python</b>
 
-- 🌱 I’m currently learning Express, Passport, Django, DevOps
+- 🌱 I’m currently learning <b>Express, Passport, Django</b> and <b>DevOps</b>
 
-- 🤔 I’m looking for help with Some Guidence to my journey to open source
+- 🤔 I’m looking for help with <b>Some Guidance</b> to my journey to <b>Open Source</b>
 
 - 📫 How to reach me: *aman.kanojiya4203@gmail.com*
 
@@ -29,7 +32,7 @@
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/AMANKANOJIYA/count.svg" alt="Visitor Count" /></h2>
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Connect With Me !!! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/AMANKANOJIYA" target="_blank">
@@ -43,5 +46,5 @@
 </a>
 </p> 
 
-<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
+<h3 align="center">Show some :heart: by giving <b>Stars</b> to some of my repositories! </h3>
 
