@@ -18,7 +18,7 @@
 
 - 🤔 I’m looking for help with <b>Some Guidance</b> to my journey to <b>Open Source</b>
 
-- 📫 How to reach me: *aman.kanojiya4203@gmail.com*
+- 📫 How to reach me: *aman.kanojiya4203@gmail.com* .
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true&line=66FF00&color=8700FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
