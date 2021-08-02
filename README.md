@@ -8,13 +8,13 @@
  
 - 👨‍💻 First Year Student at <b>IIT (ISM)</b>.
 
-- 🔭 I’m currently working on <b>Web Development Skills</b>.
+- 🔭 I’m currently working on <b>Web Development Skills</b>, <b>Robotics</b>, <b>ML</b>.
  
 - 👯 I’m looking to collaborate on all types of Projects
 
-- 💬 Would Like to talk about <b>Web development</b>, <b>Python</b>
+- 💬 Would Like to talk about <b>Web development</b>, <b>Python</b>, <b>Robotics</b>
 
-- 🌱 I’m currently learning <b>Express, Passport, Django</b> and <b>DevOps</b>
+- 🌱 I’m currently learning <b>Express, Passport, Django</b>, <b>Deno</b> and <b>DevOps</b>
 
 - 🤔 I’m looking for help with <b>Some Guidance</b> to my journey to <b>Open Source</b>
 
