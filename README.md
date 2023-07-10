@@ -6,13 +6,13 @@
 
 ### A Pythoneer🐍 & Web Developer. Love to learn and explore 🚀 
  
-- 👨‍💻 First Year Student at <b>IIT (ISM)</b>.
+- 👨‍💻 FInal Year Student at <b>IIT (ISM)</b>.
 
-- 🔭 I’m currently working on <b>Web Development Skills</b>, <b>Robotics</b>, <b>ML</b>.
+- 🔭 I’m currently working on <b>System Design</b>, <b>Blockchain</b>, <b>ML</b>.
  
 - 👯 I’m looking to collaborate on all types of Projects
 
-- 💬 Would Like to talk about <b>Web development</b>, <b>Python</b>, <b>Robotics</b>
+- 💬 Would Like to talk about <b>FullStack development</b>, <b>Python</b>, <b>Robotics</b>,<b>Blockchain</b>
 
 - 🌱 I’m currently learning <b>Express, Passport, Django</b>, <b>Deno</b> and <b>DevOps</b>
 
@@ -21,7 +21,7 @@
 - 📫 How to reach me: *aman.kanojiya4203@gmail.com* .
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true&line=66FF00&color=8700FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true&line=66FF00&color=8700FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
