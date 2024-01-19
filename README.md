@@ -21,6 +21,9 @@
 - 📫 How to reach me: *aman.kanojiya4203@gmail.com* .
 
 
+[![An image of @aman_thecodeaddict's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aman_thecodeaddict)](https://holopin.io/@aman_thecodeaddict)
+
+
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMANKANOJIYA&theme=react-dark&hide_border=true&line=66FF00&color=8700FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
